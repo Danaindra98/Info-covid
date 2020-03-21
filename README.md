@@ -1,5 +1,4 @@
-# Info-covid
-#
+
 # database 
 buat database "covid"
 # tabel
